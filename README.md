@@ -11,4 +11,10 @@ The extra sprinkles that we used were:
 
 # Team Members
 The team consits of three highly motivated and skilled learners each with different sets of skills that they contributed to the completion of this project.
+<p align="left">
+  <img width="150" height="150" src="images/profile%2520pics/jay_l.jpg">
+  Project Manager: [Jay Lee](https://github.com/dreampoetlee)
+</p>
+
+       
 

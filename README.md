@@ -13,7 +13,15 @@ The extra sprinkles that we used were:
 The team consits of three highly motivated and skilled learners each with different sets of skills that they contributed to the completion of this project.
 <p align="left">
   <img width="150" height="150" src="images/profile_pics/jay_l.jpg">
-  Project Manager: [Jay Lee](https://github.com/dreampoetlee)
+  Project Manager &amp; Developer: [Jay Lee](https://github.com/dreampoetlee)
+</p>
+<p align="left">
+  <img width="150" height="150" src="images/profile_pics/stephan_l.jpg">
+  Developer: [Stephan](https://github.com/slamoureux)
+</p>
+<p align="left">
+  <img width="150" height="150" src="images/profile_pics/gunasai_g.jpg">
+  Developer: [Gunasai](https://github.com/gunasai)
 </p>
 
        

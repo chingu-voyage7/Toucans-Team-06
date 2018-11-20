@@ -1,4 +1,7 @@
 # Toucans-Team-06 Voyage-7
+<p align="center">
+  <img width="480" height="480" src="images/profile_pics/group_logo.jpg">
+</p>
 
 ## Introduction
 Welcome Ladies and Gentelmen to our learning project for the Chingu Cohort Voyage 7. <br>

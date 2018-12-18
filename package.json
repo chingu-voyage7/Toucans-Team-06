@@ -1,0 +1,22 @@
+{
+  "name": "toucans-team-06",
+  "version": "1.0.0",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "jquery": "^3.3.1",
+    "jquery-smooth-scroll": "^2.2.0",
+    "lazysizes": "^4.1.5",
+    "normalize.css": "^8.0.1",
+    "picturefill": "^3.0.3",
+    "vue": "^2.5.21",
+    "vue-router": "^3.0.2",
+    "vue2-google-maps": "^0.10.5",
+    "waypoints": "^4.0.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.4.3",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.4",
+    "babel-preset-env": "^1.7.0"
+  }
+}

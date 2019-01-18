@@ -29,24 +29,22 @@ At the same time, we also decided to sprinkle in a few other things into the pro
 The team consits of three highly motivated and skilled learners each with different sets of skills that they contributed to the completion of this project.
 
 <p align="left">
-  Project Manager &amp; Developer:
   <img width="150" height="150" src="images/profile_pics/jay_l.jpg">
 
-[Jay Lee](https://github.com/dreampoetlee) 
+Project Manager &amp; Developer:[Jay Lee](https://github.com/dreampoetlee)
 </p>
 
+
 <p align="left">
-  Developer:
   <img width="150" height="150" src="images/profile_pics/stephan_l.jpg">
   
-[Stephan](https://github.com/slamoureux)
+Developer: [Stephan](https://github.com/slamoureux)
 </p>
 
 <p align="left">
-  Developer:
   <img width="150" height="150" src="images/profile_pics/gunasai_g.jpg">
 
-[Gunasai](https://github.com/gunasai)
+Developer: [Gunasai](https://github.com/gunasai)
 </p>
 
        

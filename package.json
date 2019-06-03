@@ -2,7 +2,7 @@
   "name": "toucans-team-06",
   "version": "1.0.0",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "customizr": "^1.1.0",
     "gulp-update": "0.0.2",
     "jquery": "^3.3.1",

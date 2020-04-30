@@ -5,7 +5,7 @@
     "axios": "^0.18.0",
     "customizr": "^1.1.0",
     "gulp-update": "0.0.2",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "jquery-smooth-scroll": "^2.2.0",
     "lazysizes": "^4.1.5",
     "lodash": "^4.17.11",
